@@ -13,7 +13,7 @@
     border-radius: 50px;
     font-size: 0.9em;
 }
-/* TAMAÑO DEL PRIMER TITULO */
+/*  */
 
 /* SEGUNDA SESION */
 .banner02
@@ -24,7 +24,7 @@
     align-items: center;
     text-align: left;
     background-image: url("img2.jpg");
-    background-color: rgb(161, 167, 86);
+    background-color: rgba(241,101,41,255);
     background-position: center;
 }
 
