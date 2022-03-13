@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: center;
 }
 body{
     margin: 0;
     padding: 0;
     background: linear-gradient(150deg, #ffffff, #9b989e);
     height: 100vh;
-    padding-bottom: 60em;
+    padding-bottom: 80em;
     align-items: center;
     
 }
@@ -28,8 +29,8 @@ body{
 
 .registro h4
 {
-    font-size: 22px;
-    margin-bottom: 20px;
+    font-size: 26px;
+    margin-bottom: 22px;
 
 }
 .controls
@@ -73,3 +74,4 @@ body{
     cursor: pointer;
 
 }
+

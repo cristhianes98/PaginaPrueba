@@ -1,1 +1,1 @@
-alert("Has Ingresado");
+alert("Has Ingresado correctamente");
