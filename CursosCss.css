@@ -2,7 +2,10 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
     font-family: 'Times New Roman', Times, serif;
+=======
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 body {
     height:500px;
@@ -24,7 +27,11 @@ p
 }
 header
 {
+<<<<<<< HEAD
     background-image: url("img/img.jpg");
+=======
+    background-color: #0f0f0f;
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 
 }
 
@@ -37,6 +44,7 @@ padding: 30px;
 font-size: 50;
 }
 
+<<<<<<< HEAD
 nav
 {
 background-color: rgb(133, 132, 131);
@@ -46,6 +54,15 @@ font-family: 'Times New Roman', Times, serif;
 list-style-type: none;
 text-align: center;
 font-size: 20PX;
+=======
+nav ul
+{
+background-color: rgb(133, 132, 131);
+width: 100%;
+list-style-type: none;
+text-align: center;
+font-size: 20;
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 
  nav li{
@@ -53,19 +70,38 @@ display: inline-flex;
 }
 
 nav a{
+<<<<<<< HEAD
     border-left: 2px solid rgb(252, 252, 252);
+=======
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
     text-decoration: none;
     color: rgb(255, 255, 255);
     padding: 10px;
     width: 200px;
+<<<<<<< HEAD
     font-size: 20px;
+=======
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 nav li:hover
 {
     background-color: #0f0f0f;
 
 }
+<<<<<<< HEAD
 
+=======
+a
+{
+    border-left: 2px solid rgb(252, 252, 252);
+    border-width: 5px;
+    color: aliceblue;
+    padding: 0.6em 3.5em;
+    text-decoration: none;
+    border-bottom: 100%;
+    font-size: 0.9em;
+}
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 img
 {
 width: 250px;
@@ -74,11 +110,24 @@ border-radius: 50%;
 object-fit: scale-down;
 object-position: 0%;
 }
+<<<<<<< HEAD
 
 
 .contenido{
     display: flex;
     margin: 10px;
+=======
+.contenido{
+    display: flex;
+    margin: 60px;
+
+}
+.articulos
+{
+width: 100%;
+margin: 30px;
+
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 
 .sesiones {
@@ -92,17 +141,28 @@ object-position: 0%;
 footer
 {
     width: 100%;
+<<<<<<< HEAD
     height: 200px;
     background-image: url("img/img.jpg");
     color: white;
     margin-top: 60px;
     
+=======
+    height: 250px;
+    background-color: rgb(128, 128, 128);
+    color: white;
+    margin-top: 60px;
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 
 footer
 {
     text-align: center;
+<<<<<<< HEAD
     padding: 30px;
+=======
+    padding: 60px;
+>>>>>>> 87fa11b1f5bb0a5c14c850ff04aec6573cda2408
 }
 
 
